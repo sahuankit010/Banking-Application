@@ -1,0 +1,7 @@
+1. Unzip application.
+2. Open Unzipped application in IntelliJ IDEA preferably, or any other IDE.
+3. Run this file ./application/src/main/java/com/banking/application/BankSystem.java
+4. It is the only entry point and only file with main method.
+5. This will create account with some customer and perform transactions.
+6. Also there are two tests similar to above file in this file ./application/src/main/java/com/banking/application/TestCases.java.
+7. Run this file using same IDE ./application/src/main/java/com/banking/application/TestCases.java
